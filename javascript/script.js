@@ -34,7 +34,11 @@ let episodes = [
     {"number":"033", "name":"Boatswain's Call", "case":"#0110201", "year":"2011", "month":"01", "day":"02", "season":"1", "released":"#0162408"},
     {"number":"034", "name":"Anatomy Class", "case":"#0161207", "year":"2016", "month":"07", "day":"12", "season":"1", "released":"#0163108"},
     {"number":"035", "name":"Old Passages", "case":"#0020406", "year":"2002", "month":"06", "day":"04", "season":"1", "released":"#0160709"},
-    {"number":"036", "name":"Taken Ill", "case":"#0121911", "year":"2012", "month":"11", "day":"19", "season":"1", "released":"#0161409"}
+    {"number":"036", "name":"Taken Ill", "case":"#0121911", "year":"2012", "month":"11", "day":"19", "season":"1", "released":"#0161409"}, 
+    {"number":"037", "name":"Burnt Offering", "case":"#0090608", "year":"2009", "month":"08", "day":"06", "season":"1", "released":"#0162109"},
+    {"number":"038", "name":"Lost and Found", "case":"#0120606", "year":"2012", "month":"06", "day":"06", "season":"1", "released":"#0162809"},
+    {"number":"039", "name":"Infestation", "case":"#0160729-A", "year":"2016", "month":"07", "day":"29", "season":"1", "released":"#0160510"},
+    {"number":"040", "name":"Human Remains", "case":"#0160729-B", "year":"2016", "month":"07", "day":"29", "season":"1", "released":"#0161210"}
 ];
 
 function displayEpisodes(episodes) {
